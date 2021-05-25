@@ -1,3 +1,4 @@
 A small convert case tool made with Svelte.
 
-Link: [convert-case-react.netlify.app]
+Link:
+https://convert-case-react.netlify.app/
