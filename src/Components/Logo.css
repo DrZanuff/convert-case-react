@@ -1,0 +1,19 @@
+p{
+    display: flex;
+    justify-content: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}	
+#logo{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 79px;
+    margin-top: 5px;
+}
